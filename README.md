@@ -21,7 +21,9 @@ Under the Band, clicking "lambda0", we obtain again $21$ number of elements, eac
 ![image](https://github.com/user-attachments/assets/9622169f-8a36-4f92-8ba3-017317f86d61)
 
 The first band contains the central wavelength of 400.0 (nm) with a wavelength range of +/- 7.5 (nm), more precisely the values in range of 392.5 to 407.5 (nm).
- 
+
+### Full Width at Half Maximum (FWHM) 
+
 ## Appendix
 
 #### - Steradian
