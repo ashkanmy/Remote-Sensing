@@ -7,6 +7,7 @@ As we open an OLCI product in SNAP, below items can be seen in "Product Explorer
 
 ![image](https://github.com/user-attachments/assets/1a78d3d8-62bf-44bb-8c2a-3b6b18a9aef4)
 
+### Radiance
 Further clicking the Oa*_radiance we have
 
 ![image](https://github.com/user-attachments/assets/5359bc64-1b4e-4e1f-99d8-1fd52eca8265)
@@ -16,7 +17,7 @@ the top of atmosphere (TOA) radiance for OLCI acquisition band Oa01 with central
 Here, pixels are interpreted as the radiance values measured at the top of Earth's atmosphere measured in $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
 represent the milliwatts, meter, steradians and nanometer, respectively.
 
-### The central wavelength of each band $\lambda_0$
+### Central wavelength of each band $\colon\lambda_0$
 Under the Band, clicking "lambda0", we obtain again $21$ number of elements, each of size $4865\times 4091$ pixels, called "lambda0_band_1" till "lambda0_band_21". 
 
 ![image](https://github.com/user-attachments/assets/9622169f-8a36-4f92-8ba3-017317f86d61)
