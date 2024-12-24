@@ -26,7 +26,7 @@ The first band contains the central wavelength of 400.0 (nm) with a wavelength r
 
 ### Full Width at Half Maximum (FWHM) 
 
-Taking the maximum value of all the wavelengths establshing a distribution and divide it by half, two “half maximum values” are obtained. The width between the two 
+Taking the maximum value of all the wavelengths of a band establshing a distribution and divide it by half, two “half maximum values” are obtained. The width between the two 
 points on the distribution curve represents the FWHM measurement.
 
 ## Appendix
