@@ -27,7 +27,10 @@ As an example, the first band contains the central wavelength of 400.0 (nm) with
 ### Full Width at Half Maximum (FWHM) 
 
 Taking the maximum value of all the wavelengths corresponding to a band establshing a statistical distribution and divide it by half, two “half maximum value” points 
-are obtained. The width between these two points on the distribution curve represents the FWHM measurement. Each band has also a corresponding matrix of size 
+are obtained. The width between these two points on the distribution curve represents the FWHM measurement. Each of $21$ bands has a corresponding matrix of size 
+$4865\times 4091$ containing the pixel-deüendent FWHM values.
+
+![image](https://github.com/user-attachments/assets/aa75c842-b4c1-4709-b79f-2f25f4a76e13)
 
 ## Appendix
 
@@ -38,3 +41,5 @@ A cone representing subset of all possible directions from centre of a sphere. T
 intercept area among the cone and the unit sphere is defined as the unit solid angle $\hat{κ}$ and
 measured in steradian. In case the cone is projected on a sphere with radi $s$, the solid angle $κ$
 is computed by dividing the area of the intercept by radi of the sphere.
+
+<script src="datamaps/datamaps.usa.min.js"></script>
