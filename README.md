@@ -12,9 +12,15 @@ Further clicking the Oa*_radiance we have
 ![image](https://github.com/user-attachments/assets/5359bc64-1b4e-4e1f-99d8-1fd52eca8265)
 
 with each element to represent a particular band. As an example, the first band "Oa01_radiance (400 nm)" contains 
-the top of atmosphere (TOA) radiance for OLCI acquisition band Oa01 at 400.0 nm with a wavelength range of +/- 7.5 nm and a pixel resolution of 4865 x 4091. 
+the top of atmosphere (TOA) radiance for OLCI acquisition band Oa01 with central wavelength of 400.0 (nm) with a wavelength range of +/- 7.5 (nm) and a pixel resolution of $4865\times 4091$. 
 Here, pixels are interpreted as the radiance values measured at the top of Earth's atmosphere measured in $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
 represent the milliwatts, meter, steradians and nanometer, respectively.
+
+Under the Band, clicking "lambda0", we obtain again $21$ number of elements, each of size $4865\times 4091$ pixels, called "lambda0_band_1" till "lambda0_band_21". The first band contains the central wavelength of 400.0 (nm) with a wavelength range of +/- 7.5 (nm), more precisely the values in range of 392.5 to 407.5 (nm).
+
+
+These 
+elements contain the central wavelength in which the corresponding band  
  
 ## Appendix
 
