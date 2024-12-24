@@ -16,6 +16,7 @@ the top of atmosphere (TOA) radiance for OLCI acquisition band Oa01 with central
 Here, pixels are interpreted as the radiance values measured at the top of Earth's atmosphere measured in $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
 represent the milliwatts, meter, steradians and nanometer, respectively.
 
+### $\lambda_0$, the central wavelength of each band$\colon$
 Under the Band, clicking "lambda0", we obtain again $21$ number of elements, each of size $4865\times 4091$ pixels, called "lambda0_band_1" till "lambda0_band_21". 
 
 ![image](https://github.com/user-attachments/assets/9622169f-8a36-4f92-8ba3-017317f86d61)
