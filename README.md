@@ -42,4 +42,3 @@ intercept area among the cone and the unit sphere is defined as the unit solid a
 measured in steradian. In case the cone is projected on a sphere with radi $s$, the solid angle $κ$
 is computed by dividing the area of the intercept by radi of the sphere.
 
-<script src="datamaps/datamaps.usa.min.js"></script>
