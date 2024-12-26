@@ -80,7 +80,8 @@ ozone areas, the clouds and the ocean.
   <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="350" height="350">
 </p>
-(Left) The WVI band coler coded in Jet colormap. (Right) The same band after performing histogram equalization.
+(Left) The WVI band coler coded in Jet colormap. (Right) The same band after performing histogram equalization. The more blue, 
+the higher is the content of water vapor. 
 
 # References 
 [1] https://en.wikipedia.org/wiki/Kakadu_National_Park
