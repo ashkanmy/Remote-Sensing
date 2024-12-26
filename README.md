@@ -1,7 +1,10 @@
+### Ocean and Land Colour Instrument (OLCI) obtained from Sentinel-3
 
-# Sentinel-3
+### Level-2 product
 
-### Ocean and Land Colour Instrument (OLCI)
+![image](https://github.com/user-attachments/assets/5d7304ab-2a25-422f-930e-a2c7bf6f2aa3)
+
+### Level-1 product
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
 
