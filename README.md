@@ -12,8 +12,9 @@ Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" 
 + Optical Green Vegetation Index (OGVI) : provides information about the density and vigor of green vegetation and has no unit measure.
 + Ozone Total Column Index (OTCI) : Measures the total ozone content in the atmospheric column with a measure of Dobson Units (DU), where
   1 DU = 0.01 (mm) of ozone at standard temperature and pressure.
-+ RC681 : are both Rayleigh-corrected reflectance values, but they correspond to different wavelengths and serve different purposes based on
-  their spectral characteristics. None of them has a unit measure.
++ RC681 and RC865 : Both are Rayleigh-corrected reflectance values, but they correspond to different wavelengths and serve different purposes based on
+  their spectral characteristics. Their measure unit is $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
+represent the milliwatts, meter, steradians and nanometer, respectively.
 
 ### Level-1 product
 
