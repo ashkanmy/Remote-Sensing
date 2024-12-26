@@ -81,7 +81,7 @@ ozone areas, the clouds and the ocean.
 
 #### - Steradian
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49b91715-bff6-4bf7-a266-823bc4bc7035" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/49b91715-bff6-4bf7-a266-823bc4bc7035" width="250" height="250">
 </p>
 
 A cone representing subset of all possible directions from centre of a sphere. The
