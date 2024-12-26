@@ -10,7 +10,7 @@ Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" 
 
 + Integrated Water Vapor (IWV) : the total water vapor content in a vertical column of the atmosphere measured in (mm).
 + Optical Green Vegetation Index (OGVI) : provides information about the density and vigor of green vegetation and has no unit measure.
-
++ Ozone Total Column Index (OTCI) : Measures the total ozone content in the atmospheric column with a measure of Dobson Units (DU), where 1 DU = 0.01 (mm) of ozone at standard temperature and pressure.
 
 ### Level-1 product
 
