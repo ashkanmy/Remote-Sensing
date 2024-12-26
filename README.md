@@ -57,7 +57,9 @@ $4865\times 4091$ containing the pixel-deüendent FWHM values.
 Our area of interest is the Kakadu national park [1]. We proceed to visualize few elements from OLCI at level-2.
 
 ### OTCI index
-![image](https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="512" height="512">
+</p>
 
 # References 
 [1] https://en.wikipedia.org/wiki/Kakadu_National_Park
