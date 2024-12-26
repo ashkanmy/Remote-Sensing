@@ -4,7 +4,7 @@
 
 As we open an OLCI Level-2 product in SNAP we obtain below structure
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/f92e4a62-37e5-4c1d-86b5-78a73ef03813" width="150" height="350">
 </p>
 
@@ -26,12 +26,16 @@ Also, under the "Masks" we get a set of flag-elements that provide more informat
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
 
-![image](https://github.com/user-attachments/assets/1a78d3d8-62bf-44bb-8c2a-3b6b18a9aef4)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/1a78d3d8-62bf-44bb-8c2a-3b6b18a9aef4" width="150" height="350">
+</p>
 
 ### Radiance
 Further clicking the Oa*_radiance we have
 
-![image](https://github.com/user-attachments/assets/5359bc64-1b4e-4e1f-99d8-1fd52eca8265)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5359bc64-1b4e-4e1f-99d8-1fd52eca8265" width="150" height="350">
+</p>
 
 with each element to represent a particular band. As an example, the first band "Oa01_radiance (400 nm)" contains 
 the top of atmosphere (TOA) radiance for OLCI acquisition band Oa01 with central wavelength of 400.0 (nm) with a wavelength range of $\pm 7.5$ (nm) and a pixel resolution of $4865\times 4091$. 
