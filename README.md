@@ -74,6 +74,13 @@ Our area of interest is the Kakadu National Park [1], located on north side of A
 (Left) The OTCI band. (Right) The labeled OTCI band with red, light blue and dark blue color coded areas to represent the failed to measured 
 ozone areas, the clouds and the ocean.
 
+## Visualisation of WVI index
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="250" height="350">
+  <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="250" height="350">
+</p>
+
 # References 
 [1] https://en.wikipedia.org/wiki/Kakadu_National_Park
 
