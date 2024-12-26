@@ -4,7 +4,9 @@
 
 As we open an OLCI Level-2 product in SNAP we obtain below structure
 
-![image](https://github.com/user-attachments/assets/f92e4a62-37e5-4c1d-86b5-78a73ef03813)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f92e4a62-37e5-4c1d-86b5-78a73ef03813" width="350" height="350">
+</p>
 
 Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" and "RC865". They represent 
 
