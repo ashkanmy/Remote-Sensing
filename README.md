@@ -2,7 +2,15 @@
 
 ### Level-2 product
 
+As we open an OLCI Level-2 product in SNAP we obtain below structure
+
 ![image](https://github.com/user-attachments/assets/5d7304ab-2a25-422f-930e-a2c7bf6f2aa3)
+
+Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" and "RC865". They represent 
+
++ Integrated Water Vapor (IWV) : the total water vapor content in a vertical column of the atmosphere measured in (mm).
++ Optical Green Vegetation Index (OGVI) : provides information about the density and vigor of green vegetation and has no unit measure.
+
 
 ### Level-1 product
 
