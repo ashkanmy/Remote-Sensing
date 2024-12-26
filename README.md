@@ -4,7 +4,7 @@
 
 As we open an OLCI Level-2 product in SNAP we obtain below structure
 
-![image](https://github.com/user-attachments/assets/097aefce-40ac-4909-8586-5d212ebc0156)
+![image](https://github.com/user-attachments/assets/f92e4a62-37e5-4c1d-86b5-78a73ef03813)
 
 Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" and "RC865". They represent 
 
@@ -16,7 +16,10 @@ Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" 
   their spectral characteristics. Their measure unit is $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
 represent the milliwatts, meter, steradians and nanometer, respectively.
 
-In addition, there are three more categories, namely $\lambda_0$, FWHM, and solar_flux that we explain them later on.
+In addition, there are three more categories, namely $\lambda_0$, FWHM, and solar_flux that we explain them later on. 
+
+Also, under the "Masks" we get a set of flag-elements that provide more informations on the classified type of scene in pixel level, namely land, water etc.
+
 ## Level-1 product
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
