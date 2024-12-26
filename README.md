@@ -47,7 +47,7 @@ $4865\times 4091$ containing the pixel-deüendent FWHM values.
 
 ![image](https://github.com/user-attachments/assets/aa75c842-b4c1-4709-b79f-2f25f4a76e13)
 
-## Appendix
+# Appendix
 
 #### - Steradian
 ![image](https://github.com/user-attachments/assets/49b91715-bff6-4bf7-a266-823bc4bc7035)
