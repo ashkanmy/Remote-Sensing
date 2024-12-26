@@ -44,7 +44,9 @@ Here, pixels are interpreted as the radiance values measured at the top of Earth
 ### Central wavelength of each band $\left(\lambda_0\right)$
 Under the Band, clicking "lambda0", we obtain again $21$ number of elements, each of size $4865\times 4091$ pixels, called "lambda0_band_1" till "lambda0_band_21". 
 
-![image](https://github.com/user-attachments/assets/9622169f-8a36-4f92-8ba3-017317f86d61)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9622169f-8a36-4f92-8ba3-017317f86d61" width="150" height="350">
+</p>
 
 As an example, the first band contains the central wavelength of 400.0 (nm) with a wavelength range of $\pm 7.5$ (nm), more precisely the values in range of 392.5 to 407.5 (nm).
 
