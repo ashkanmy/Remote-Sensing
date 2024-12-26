@@ -56,7 +56,9 @@ Taking the maximum value of all the wavelengths corresponding to a band establsh
 are obtained. The width between these two points on the distribution curve represents the FWHM measurement. Each of $21$ bands has a corresponding matrix of size 
 $4865\times 4091$ containing the pixel-deüendent FWHM values.
 
-![image](https://github.com/user-attachments/assets/aa75c842-b4c1-4709-b79f-2f25f4a76e13)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/aa75c842-b4c1-4709-b79f-2f25f4a76e13" width="150" height="350">
+</p>
 
 # Level-2 Processing
 
