@@ -1,6 +1,6 @@
-### Ocean and Land Colour Instrument (OLCI) obtained from Sentinel-3
+# Ocean and Land Colour Instrument (OLCI) obtained from Sentinel-3
 
-### Level-2 product
+## Level-2 product
 
 As we open an OLCI Level-2 product in SNAP we obtain below structure
 
@@ -17,7 +17,7 @@ Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" 
 represent the milliwatts, meter, steradians and nanometer, respectively.
 
 In addition, there are three more categories, namely $\lambda_0$, FWHM, and solar_flux that we explain them later on.
-### Level-1 product
+## Level-1 product
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
 
