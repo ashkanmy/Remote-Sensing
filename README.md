@@ -58,7 +58,8 @@ Our area of interest is the Kakadu national park [1]. We proceed to visualize fe
 
 ### OTCI index
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="450" height="450">
+  <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="250" height="250">
+  <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="250" height="250">
 </p>
 
 # References 
