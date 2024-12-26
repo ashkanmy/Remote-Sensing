@@ -50,6 +50,18 @@ $4865\times 4091$ containing the pixel-deüendent FWHM values.
 
 ![image](https://github.com/user-attachments/assets/aa75c842-b4c1-4709-b79f-2f25f4a76e13)
 
+# Level-2 Processing
+
+## Visualisations
+
+Our area of interest is the Kakadu national park [1]. We proceed to visualize few elements from OLCI at level-2.
+
+### OTCI index
+![image](https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f)
+
+# References 
+[1] https://en.wikipedia.org/wiki/Kakadu_National_Park
+
 # Appendix
 
 #### - Steradian
