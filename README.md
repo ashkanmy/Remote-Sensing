@@ -79,7 +79,7 @@ ozone areas, the clouds and the ocean.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="350" height="350">
-  <img src="https://github.com/user-attachments/assets/3d35ce2d-fbe7-41aa-9a82-50bcc7622fc2" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/3d35ce2d-fbe7-41aa-9a82-50bcc7622fc2" width="175" height="135">
 </p>
 (Left) The WVI band coler coded in Jet colormap. (Right) The same band after performing histogram equalization. The more blue, 
 the higher is the content of water vapor. 
