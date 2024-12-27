@@ -64,7 +64,7 @@ May 2016 at the time when the reasning season just ended. This means, the area i
 past raining season November to April 2016. The more blue, means the more vegetation texture is observed.
 the higher is the . 
 
-# ----
+# --------------------------------------------------------------------
 ## Level-1 product
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
