@@ -72,9 +72,12 @@ The OTCI index measures the photosynthetic activity of plants and is sensitive t
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/f30d081d-2d3f-457e-b587-9c44841a7be2" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/6d274cbf-7515-4f47-8f83-b86097c09f66" width="175" height="135">
 </p>
+
 (Left) The OTCI band. (Right) The labeled OTCI band with red, light blue and dark blue color coded areas to represent the failed to measured areas, the 
-clouds and the ocean.
+clouds and the ocean. A gray color map with darker values represent areas with higher photosynthetic activities where as light areas show less such 
+activities.
 
 ## Visualisation of WVI index
 
