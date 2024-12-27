@@ -77,12 +77,22 @@ ozone areas, the clouds and the ocean.
 ## Visualisation of WVI index
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="350" height="350">
-  <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="320" height="320">
+  <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="320" height="320">
   <img src="https://github.com/user-attachments/assets/3d35ce2d-fbe7-41aa-9a82-50bcc7622fc2" width="175" height="135">
 </p>
-(Left) The WVI band coler coded in Jet colormap. (Right) The same band after performing histogram equalization. The more blue, 
+(Left) The WVI band color coded in Jet colormap. (Right) The same band after performing histogram equalization. The more blue, 
 the higher is the content of water vapor. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81fbb9ae-3b18-47d8-b19c-b847f4ae4edf" width="320" height="320">
+  <img src="https://github.com/user-attachments/assets/1b2fc62a-27b7-49f5-b42d-ec7f1737588b" width="320" height="320">
+  <img src="https://github.com/user-attachments/assets/d5a92987-66b1-4882-9b32-3ec403695092" width="175" height="135">
+</p>
+(Left) The OGVI band color coded. (Right) The same band after performing histogram equalization. The image is sensed around 
+May 2016 at the time when the reasning season just ended. This means, the area is being most probably observed raining during 
+past raining season November to April 2016. The more blue, means the more vegetation textre is observed.
+the higher is the . 
 
 # References 
 [1] https://en.wikipedia.org/wiki/Kakadu_National_Park
