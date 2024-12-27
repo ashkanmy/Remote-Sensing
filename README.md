@@ -1,6 +1,6 @@
 # Ocean and Land Colour Instrument (OLCI) obtained from Sentinel-3
 
-## Level-2 product
+## Level-2 product, land full resolution (LFR)
 
 As we open an OLCI Level-2 product in SNAP we obtain below structure
 
