@@ -67,15 +67,18 @@ $4865\times 4091$ containing the pixel-deüendent FWHM values.
 Our area of interest is the Kakadu National Park [1], located on north side of Australia. We proceed to visualize few elements from OLCI at level-2.
 
 ### Visualisation of OTCI index
+
+The OTCI index measures the photosynthetic activity of plants and is sensitive to vegetation stress, health, and growth stages.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/f30d081d-2d3f-457e-b587-9c44841a7be2" width="350" height="350">
 </p>
-(Left) The OTCI band. (Right) The labeled OTCI band with red, light blue and dark blue color coded areas to represent the failed to measured 
-ozone areas, the clouds and the ocean.
+(Left) The OTCI band. (Right) The labeled OTCI band with red, light blue and dark blue color coded areas to represent the failed to measured areas, the 
+clouds and the ocean.
 
 ## Visualisation of WVI index
 
+The Water Vapour Index (WVI) is a useful remote sensing index that helps in assessing moisture content in vegetation environment. 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="320" height="320">
   <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="320" height="320">
@@ -85,7 +88,7 @@ ozone areas, the clouds and the ocean.
 the higher is the content of water vapor. 
 
 ## Visualisation of OGVI index
-
+The OGVI index assess vegetation health and density based on the amount of green vegetation in area.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81fbb9ae-3b18-47d8-b19c-b847f4ae4edf" width="320" height="320">
   <img src="https://github.com/user-attachments/assets/1b2fc62a-27b7-49f5-b42d-ec7f1737588b" width="320" height="320">
@@ -93,7 +96,7 @@ the higher is the content of water vapor.
 </p>
 (Left) The OGVI band color coded. (Right) The same band after performing histogram equalization. The image is sensed around 
 May 2016 at the time when the reasning season just ended. This means, the area is being most probably observed raining during 
-past raining season November to April 2016. The more blue, means the more vegetation textre is observed.
+past raining season November to April 2016. The more blue, means the more vegetation texture is observed.
 the higher is the . 
 
 # References 
