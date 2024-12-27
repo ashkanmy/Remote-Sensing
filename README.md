@@ -84,6 +84,8 @@ ozone areas, the clouds and the ocean.
 (Left) The WVI band color coded in Jet colormap. (Right) The same band after performing histogram equalization. The more blue, 
 the higher is the content of water vapor. 
 
+## Visualisation of OGVI index
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81fbb9ae-3b18-47d8-b19c-b847f4ae4edf" width="320" height="320">
   <img src="https://github.com/user-attachments/assets/1b2fc62a-27b7-49f5-b42d-ec7f1737588b" width="320" height="320">
