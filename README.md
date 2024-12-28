@@ -37,9 +37,6 @@ Our area of interest is the Kakadu National Park [1], located on north side of A
 
 ### Visualisation of OTCI index
 
-
-![image]()
-
 The OTCI index measures the photosynthetic activity of plants and is sensitive to vegetation health, and growth stages.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f30d081d-2d3f-457e-b587-9c44841a7be2" width="350" height="350">
@@ -52,7 +49,7 @@ green areas show less active area concerning such activities.
 
 ## Visualisation of WVI index
 
-The Water Vapour Index (WVI) is a useful remote sensing index that helps in assessing moisture content in vegetation environment. 
+The Water Vapour Index (WVI) used in assessing moisture content in vegetation environment. 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10f8889b-680f-4a75-8a3c-07bd7045a88a" width="320" height="320">
   <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="320" height="320">
