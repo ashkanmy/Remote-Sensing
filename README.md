@@ -1,17 +1,18 @@
 # Obtained products from Sentinel-3
 ### Ocean and Land Colour Instrument (OLCI) 
-(i) Land surface reflectance full/reduced resolution (LFR/LRR)
+( i ) Land surface reflectance full/reduced resolution (LFR/LRR)
 
-(ii) Water surface reflectance full/reduced resolution (WFR/WRR)
+( ii ) Water surface reflectance full/reduced resolution (WFR/WRR)
   
 ### Land Surface Temperature Radiometer (SLSTR)
 
-(iii) Land surface temprature (LST)
+( iii ) Land surface temprature (LST)
 
-(iv) Sea surface temperature products (WST)
+( iv ) Sea surface temperature products (WST)
 
 # --------------------------------------------------------------------
-## (i) Land surface reflectance, full resolution (LFR)
+## ( i ) Land surface reflectance, full resolution (LFR)
+# --------------------------------------------------------------------
 
 As we open the product in SNAP we obtain below structure
 
@@ -69,7 +70,7 @@ The OGVI index assess vegetation health and density based on the amount of green
 May 2016 at the time when the reasning season just ended. This means, the area is being most probably observed raining during 
 past raining season November to April 2016. The more blue, means the more vegetation texture is observed.
 
-## RC681 / RC865 
+## RC681 / RC865 bands
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b610ed22-d3ab-499a-bd3f-a55d2e56f7de" width="350" height="350">
@@ -78,7 +79,22 @@ past raining season November to April 2016. The more blue, means the more vegeta
 Rectified reflectance values for the bands (Left) O10 and (Right) O17. Note, the light and the dark blue represent the cloud and the water areas.
 
 # --------------------------------------------------------------------
+## ( ii ) Water surface reflectance, full resolution (WFR)
+# --------------------------------------------------------------------
+
+## A865 band
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92bf5e0a-998d-4abf-8c58-ec743829aea3" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/e74a9855-222d-4ffe-8fbf-27cb94b5b327" width="350" height="350">
+</p>
+(Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Right) The A865 band color coded with 
+"Aerosol optical thickness" scheme. The green and brown areas respresent the land and the cloud areas. The blue area has the 
+highest aerosol optical thickness.
+
+# --------------------------------------------------------------------
 ## Level 1 product
+# --------------------------------------------------------------------
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
 
