@@ -69,8 +69,16 @@ The OGVI index assess vegetation health and density based on the amount of green
 May 2016 at the time when the reasning season just ended. This means, the area is being most probably observed raining during 
 past raining season November to April 2016. The more blue, means the more vegetation texture is observed.
 
+## RC681 and RC865 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f30d081d-2d3f-457e-b587-9c44841a7be2" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/fdfe91f8-a5c3-45cd-939a-e82d61fe7d4f" width="350" height="350">
+</p>
+Rectified reflectance for the band (Left) O10 and (Right) O17. Both are measured in $mW.m^{−2}.sr^{−1}.nm^{−1}$.
+
 # --------------------------------------------------------------------
-## Level-1 product
+## Level 1 product
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
 
