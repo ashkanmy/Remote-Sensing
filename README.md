@@ -55,7 +55,7 @@ The Water Vapour Index (WVI) used in assessing moisture content in vegetation en
   <img src="https://github.com/user-attachments/assets/56b9332b-4947-49ab-b972-a66c3d9765d0" width="320" height="320">
   <img src="https://github.com/user-attachments/assets/3d35ce2d-fbe7-41aa-9a82-50bcc7622fc2" width="175" height="135">
 </p>
-(Left) The WVI band color coded in Jet colormap. (Right) The same band after performing histogram equalization. The more blue, 
+(Left) The WVI band color coded in Jet. (Right) The same band after performing histogram equalization. The more blue, 
 the higher is the content of water vapor. 
 
 ## Visualisation of OGVI index
@@ -68,7 +68,6 @@ The OGVI index assess vegetation health and density based on the amount of green
 (Left) The OGVI band color coded. (Right) The same band after performing histogram equalization. The image is sensed around 
 May 2016 at the time when the reasning season just ended. This means, the area is being most probably observed raining during 
 past raining season November to April 2016. The more blue, means the more vegetation texture is observed.
-the higher is the . 
 
 # --------------------------------------------------------------------
 ## Level-1 product
