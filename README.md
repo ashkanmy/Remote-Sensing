@@ -69,7 +69,7 @@ The OGVI index assess vegetation health and density based on the amount of green
 May 2016 at the time when the reasning season just ended. This means, the area is being most probably observed raining during 
 past raining season November to April 2016. The more blue, means the more vegetation texture is observed.
 
-## RC681 and RC865 
+## RC681/RC865 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b610ed22-d3ab-499a-bd3f-a55d2e56f7de" width="350" height="350">
