@@ -75,7 +75,7 @@ past raining season November to April 2016. The more blue, means the more vegeta
   <img src="https://github.com/user-attachments/assets/b610ed22-d3ab-499a-bd3f-a55d2e56f7de" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/2d5f8a61-2f41-49f2-b0da-36ea0b83c586" width="350" height="350">
 </p>
-Rectified reflectance for the band (Left) O10 and (Right) O17. Note, the light and the dark blue represent the cloud and the water areas.
+Rectified reflectance values for the bands (Left) O10 and (Right) O17. Note, the light and the dark blue represent the cloud and the water areas.
 
 # --------------------------------------------------------------------
 ## Level 1 product
