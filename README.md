@@ -31,24 +31,24 @@ In addition, there are three more categories, namely $\lambda_0$, FWHM, and sola
 
 Also, under the "Masks" we get a set of flag-elements that provide more informations on the classified type of scene in pixel level, namely land, water etc.
 
-# Level-2 Processing
-
 ## Area of study
 
-Our area of interest is the Kakadu National Park [1], located on north side of Australia. We proceed to visualize few elements from OLCI at level-2.
+Our area of interest is the Kakadu National Park [1], located on north side of Australia. We proceed to visualize few indices from OLCI
 
 ### Visualisation of OTCI index
 
+
+![image]()
+
 The OTCI index measures the photosynthetic activity of plants and is sensitive to vegetation health, and growth stages.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19730bf9-86d7-4901-ad05-2582886ca06f" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/f30d081d-2d3f-457e-b587-9c44841a7be2" width="350" height="350">
-  <img src="https://github.com/user-attachments/assets/6d274cbf-7515-4f47-8f83-b86097c09f66" width="155" height="105">
+  <img src="https://github.com/user-attachments/assets/fdfe91f8-a5c3-45cd-939a-e82d61fe7d4f" width="350" height="350">
 </p>
 
-(Left) The OTCI band. (Right) The labeled OTCI band with red, light blue and dark blue color coded areas to represent the failed to measured areas, the 
-clouds and the ocean. A gray color map with darker values represent areas with less photosynthetic activities where as light areas show more active areas
-concerning such activities.
+(Left) The OTCI band shown with no colormap used. The red, light blue and dark blue color coded areas to represent the failed to measured areas, the 
+clouds and the ocean. (Right) The OTCI band color coded with darker green values represent areas with more photosynthetic activities where as light 
+green areas show less active area concerning such activities.
 
 ## Visualisation of WVI index
 
