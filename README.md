@@ -1,21 +1,30 @@
-# Ocean and Land Colour Instrument (OLCI) obtained from Sentinel-3
+# Obtained products from Sentinel-3
+### Ocean and Land Colour Instrument (OLCI) 
+(i) Land surface reflectance full/reduced resolution (LFR/LRR)
 
-## Level-2 product, land full resolution (LFR)
+(ii) Water surface reflectance full/reduced resolution (WFR/WRR)
+  
+### Land Surface Temperature Radiometer (SLSTR)
 
-As we open an OLCI Level-2 product in SNAP we obtain below structure
+(iii) Land surface temprature (LST)
+
+(iv) Sea surface temperature products (WST)
+
+# --------------------------------------------------------------------
+## (i) Land surface reflectance, full resolution (LFR)
+
+As we open the product in SNAP we obtain below structure
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f92e4a62-37e5-4c1d-86b5-78a73ef03813" width="150" height="350">
 </p>
 
-Under the "Band", we obtain four main categories "IWV", "OGVI", "OTCI", "RC681" and "RC865". They represent 
+Under the "Band", we obtain five main categories "IWV", "OGVI", "OTCI", "RC681" and "RC865". They represent 
 
 + Integrated Water Vapor (IWV) : the total water vapor content in a vertical column of the atmosphere measured in (mm).
-+ Optical Green Vegetation Index (OGVI) : provides information about the density and vigor of green vegetation and has no unit measure.
-+ Ozone Total Column Index (OTCI) : Measures the total ozone content in the atmospheric column with a measure of Dobson Units (DU), where
-  1 DU = 0.01 (mm) of ozone at standard temperature and pressure.
-+ RC681 and RC865 : Both are Rayleigh-corrected reflectance values, but they correspond to different wavelengths and serve different purposes based on
-  their spectral characteristics. Their measure unit is $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
++ Global Vegetation Index (OGVI) : provides information about the density and vigor of green vegetation and has no unit measure.
++ Terrestrial Chlorophyll Index (OTCI) : can be used to assess chlorophyll content over land to explore vegetation health.
++ RC681 and RC865 : Both are rectified reflectances for bands O10 and O17, respectively measured in $(mW.m^{−2}.sr^{−1}.nm^{−1})$, with $mW$, $m$, $sr$, $nm$ 
 represent the milliwatts, meter, steradians and nanometer, respectively.
 
 In addition, there are three more categories, namely $\lambda_0$, FWHM, and solar_flux that we explain them later on. 
