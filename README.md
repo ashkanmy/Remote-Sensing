@@ -72,10 +72,10 @@ past raining season November to April 2016. The more blue, means the more vegeta
 ## RC681 and RC865 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f30d081d-2d3f-457e-b587-9c44841a7be2" width="350" height="350">
-  <img src="https://github.com/user-attachments/assets/fdfe91f8-a5c3-45cd-939a-e82d61fe7d4f" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/b610ed22-d3ab-499a-bd3f-a55d2e56f7de" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/2d5f8a61-2f41-49f2-b0da-36ea0b83c586" width="350" height="350">
 </p>
-Rectified reflectance for the band (Left) O10 and (Right) O17. Both are measured in $mW\cdot m^{−2}.sr^{−1}.nm^{−1}$.
+Rectified reflectance for the band (Left) O10 and (Right) O17. Note, the light and the dark blue represent the cloud and the water areas.
 
 # --------------------------------------------------------------------
 ## Level 1 product
