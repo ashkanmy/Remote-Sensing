@@ -87,10 +87,11 @@ Rectified reflectance values for the bands (Left) O10 and (Right) O17. Note, the
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92bf5e0a-998d-4abf-8c58-ec743829aea3" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/e74a9855-222d-4ffe-8fbf-27cb94b5b327" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/1ddad9d6-caa2-4174-ba9c-7bc2386baade" width="250" height="350">
 </p>
-(Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Right) The A865 band color coded with 
+(Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Middle) The A865 band color coded with 
 "Aerosol optical thickness" scheme. The green and brown areas respresent the land and the cloud areas. The blue area has the 
-highest aerosol optical thickness.
+highest aerosol optical thickness. (Right) The color values used in middle image.
 
 # --------------------------------------------------------------------
 ## Level 1 product
