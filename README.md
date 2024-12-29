@@ -100,7 +100,7 @@ corresponding to the shown middle image are once again presented in (Right).
 </p>
 
 The ADG443_NN band color coded to visualize the CDM absorption coeffecient ranging from $0.004$ to $0.05$ as varying from yellow to 
-dark red color measured in $m^{-1}$. Note the green area is the land and the brow strip is clouded area.
+dark red color, respectively, measured in $m^{-1}$. Note the green area is the land and the brow strip is clouded area.
 
 
 # --------------------------------------------------------------------
