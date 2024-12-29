@@ -97,7 +97,7 @@ corresponding to the shown middle image are once again presented in (Right).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5f07f46-8888-454a-9367-9cc4b878b3d2" width="350" height="350">
-  <img src="https://github.com/user-attachments/assets/f32ec2ca-0c08-4383-b948-fd2c0b8023b6" width="150" height="350">
+  <img src="https://github.com/user-attachments/assets/f32ec2ca-0c08-4383-b948-fd2c0b8023b6" width="70" height="350">
 </p>
 (Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Middle) The A865 band color coded with 
 "Aerosol optical thickness" scheme. The vast green area represents the land and the brown strip is the clouded costal area. The values 
