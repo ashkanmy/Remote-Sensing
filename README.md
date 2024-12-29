@@ -91,7 +91,7 @@ Rectified reflectance values for the bands (Left) O10 and (Right) O17. Note, the
 </p>
 (Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Middle) The A865 band color coded with 
 "Aerosol optical thickness" scheme. The vast green area represents the land and the brown strip is the clouded costal area. The values 
-corresponding to the shown middle image are once again presented in (Right). Within the middle image, one observes a light blue strip 
+corresponding to the shown middle image are once again presented in (Right). In middle image, one observes a light blue strip 
 with relatively lower values within the band to appear on costal area adjacent to the clouded part.
 
 ## ADG443_NN band
