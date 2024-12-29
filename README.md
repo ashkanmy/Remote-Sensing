@@ -87,11 +87,21 @@ Rectified reflectance values for the bands (Left) O10 and (Right) O17. Note, the
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92bf5e0a-998d-4abf-8c58-ec743829aea3" width="350" height="350">
   <img src="https://github.com/user-attachments/assets/e74a9855-222d-4ffe-8fbf-27cb94b5b327" width="350" height="350">
-  <img src="https://github.com/user-attachments/assets/1ddad9d6-caa2-4174-ba9c-7bc2386baade" width="150" height="350">
+  <img src="https://github.com/user-attachments/assets/1ddad9d6-caa2-4174-ba9c-7bc2386baade" width="250" height="350">
 </p>
 (Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Middle) The A865 band color coded with 
 "Aerosol optical thickness" scheme. The vast green area represents the land and the brown strip is the clouded costal area. The values 
-corresponding to the shown middle image are presented in (Right).
+corresponding to the shown middle image are once again presented in (Right).
+
+## ADG443_NN band
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5f07f46-8888-454a-9367-9cc4b878b3d2" width="350" height="350">
+  <img src="https://github.com/user-attachments/assets/f32ec2ca-0c08-4383-b948-fd2c0b8023b6" width="150" height="350">
+</p>
+(Left) The RGB image comprosed of bands O8, O6 and O4 as red, green and blue respectively. (Middle) The A865 band color coded with 
+"Aerosol optical thickness" scheme. The vast green area represents the land and the brown strip is the clouded costal area. The values 
+corresponding to the shown middle image are once again presented in (Right).
 
 # --------------------------------------------------------------------
 ## Level 1 product
