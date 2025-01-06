@@ -15,7 +15,7 @@
 
 ( iv ) Sea surface temperature products (WST)
 
-The geometry in which the SLSTR product is measured comprised of two views, (i) the vertical or nadir view and (ii) the rear view with an agle of $55\degree$. As a satellite revolves around the earth, its sensor observs a certain portion of the earth's surface. The area imaged on the surface, is referred to as the swath. The corresponding swath of nadir and oblique views are around $1400$ (km) and $740$ (km).
+The geometry in which the SLSTR product is measured comprised of two views, (i) the vertical or nadir view and (ii) the rear view with an agle of $55\degree$. As a satellite revolves around the earth, its sensor observs a certain portion of the earth's surface. The area imaged on the surface, is referred to as the swath. The corresponding swath of nadir and oblique views are around $1400$ (km) and $740$ (km). Also, the time separation between the two views is about $3$ minutes [2].
 
 
 # -----------------------
@@ -155,6 +155,8 @@ $4865\times 4091$ containing the pixel-deüendent FWHM values.
 
 # References 
 [1] https://en.wikipedia.org/wiki/Kakadu_National_Park
+
+[2] https://www.eumetsat.int/media/48033
 
 # Appendix
 
