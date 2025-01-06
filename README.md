@@ -10,9 +10,9 @@
 
 ( iv ) Sea surface temperature products (WST)
 
-# --------------------------------------------------------------------
+# -----------------------
 ## ( i ) Land surface reflectance, full resolution (LFR)
-# --------------------------------------------------------------------
+# # -----------------------
 
 As we open the product in SNAP we obtain below structure
 
@@ -78,9 +78,9 @@ past raining season November to April 2016. The more blue, means the more vegeta
 </p>
 Rectified reflectance values for the bands (Left) O10 and (Right) O17. Note, the light and the dark blue represent the cloud and the water areas.
 
-# --------------------------------------------------------------------
+# -----------------------
 ## ( ii ) Water surface reflectance, full resolution (WFR)
-# --------------------------------------------------------------------
+# -----------------------
 
 ## A865 band
 
@@ -105,9 +105,9 @@ The ADG443_NN band color coded to visualize the CDM absorption coeffecient rangi
 dark red color, respectively, measured in $m^{-1}$. Note the green area is the land and the brown strip is clouded area.
 
 
-# --------------------------------------------------------------------
+# -----------------------
 ## Level 1 product
-# --------------------------------------------------------------------
+# -----------------------
 
 As we open an OLCI product in SNAP, below items can be seen in "Product Explorer" window :
 
