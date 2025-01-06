@@ -12,7 +12,7 @@
 
 # -----------------------
 ## ( i ) Land surface reflectance, full resolution (LFR)
-# # -----------------------
+# -----------------------
 
 As we open the product in SNAP we obtain below structure
 
