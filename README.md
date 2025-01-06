@@ -1,3 +1,5 @@
+ 
+
 # -----------------------
 # Obtained products from Sentinel-3
 # -----------------------
@@ -12,6 +14,9 @@
 ( iii ) Land surface temprature (LST)
 
 ( iv ) Sea surface temperature products (WST)
+
+The geometry in which the SLSTR product is measured comprised of two views, (i) the vertical or nadir view and (ii) the rear view with an agle of $55\degree$. As a satellite revolves around the earth, its sensor observs a certain portion of the earth's surface. The area imaged on the surface, is referred to as the swath. The corresponding swath of nadir and oblique views are around $1400$ (km) and $740$ (km).
+
 
 # -----------------------
 ## ( i ) Land surface reflectance, full resolution (LFR)
